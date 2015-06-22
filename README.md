@@ -1,3 +1,5 @@
 # Optics
 A set of lua code to help with the study of optics in physics
-yup
+--//--
+Written in Codea for the iPad
+To execute the simulations, please open Codea, and in a new project, create 5 classes (Main, Convergent, Concave, Divergent and Convex) and copy-paste the files in (really bad there's not integration between the systems. Oh well). I'm pretty sure Codea does support XCode output though, so if you're willing, clean the code up a bit (a lot of debug comments everywhere, don't mind them) and also there are a lot of methods to do the same things, so you can choose one and apply it to the other lenses, then output to XCode and upload it to your iDevice as a Standalone Version (granted you have a developer account), just please don't upload this to the AppStore, if I get enough views, I'll do it myself as a freebie for all you physics aficionados. Uh, also, fix the second lens (I believe the Concave mirror) because the algorithm my lazy self wrote outputs the crossing point a bit off, and it looks weird. Still usable, anyway.
